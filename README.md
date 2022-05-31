@@ -1,6 +1,16 @@
-# RACL
- Code and datasets of our paper "[Relation-Aware Collaborative Learning for Unified Aspect-Based Sentiment Analysis](https://www.aclweb.org/anthology/2020.acl-main.340/)" accepted by ACL 2020.
+# Improving Relation-Aware Aspect-Based Sentiment Analysis with Semi-Supervised Learning and Adaptation to Korean Dataset
 
+Paper, Code and Datasets of "Improving Relation-Aware Aspect-Based Sentiment Analysis with Semi-Supervised Learning and Adaptation to Korean Dataset", Huijae Kim, Hyeon Pyo, Jongmyeong Kim, Soyeon Jeon, course project, KAIST CS475 Machine Learning for Natural Language Processing
+
+Please refer to the paper Improving Relation-Aware Aspect-Based Sentiment Analysis with Semi-Supervised Learning and Adaptation to Korean Dataset.pdf
+
+Codes are based on RACL(https://github.com/NLPWM-WHU/RACL)
+
+Below is READ.md content of RACL(https://github.com/NLPWM-WHU/RACL)
+
+# RACL
+
+Code and datasets of our paper "Relation-Aware Collaborative Learning for Unified Aspect-Based Sentiment Analysis" accepted by ACL 2020.
 
 ## 1. Requirements
  To reproduce the reported results accurately, please install the specific version of each package.
