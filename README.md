@@ -1,6 +1,6 @@
 # Improving Relation-Aware Aspect-Based Sentiment Analysis with Semi-Supervised Learning and Adaptation to Korean Dataset
 
-Paper, Code and Datasets of "Improving Relation-Aware Aspect-Based Sentiment Analysis with Semi-Supervised Learning and Adaptation to Korean Dataset", Huijae Kim, Hyeon Pyo, Jongmyeong Kim, Soyeon Jeon, course project, KAIST CS475 Machine Learning for Natural Language Processing
+Paper, Code and Datasets of "Improving Relation-Aware Aspect-Based Sentiment Analysis with Semi-Supervised Learning and Adaptation to Korean Dataset" / Huijae Kim, Hyeon Pyo, Jongmyeong Kim, Soyeon Jeon / course project, KAIST CS475 Machine Learning for Natural Language Processing
 
 Please refer to the paper Improving Relation-Aware Aspect-Based Sentiment Analysis with Semi-Supervised Learning and Adaptation to Korean Dataset.pdf
 
