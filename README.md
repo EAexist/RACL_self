@@ -6,7 +6,7 @@ Please refer to the paper Improving Relation-Aware Aspect-Based Sentiment Analys
 
 Codes are based on RACL(https://github.com/NLPWM-WHU/RACL)
 
-Below is READ.md content of RACL(https://github.com/NLPWM-WHU/RACL)
+Below is based on READ.md content of RACL(https://github.com/NLPWM-WHU/RACL)
 
 # RACL
 
