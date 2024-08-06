@@ -98,11 +98,6 @@ We have updated the files for RACL-BERT. To run it, follow the steps below.
  | Lap14   | 82\.24  | 79\.19  | 75\.05  | 65\.67   |
  | Res15   | 74\.20  | 74\.58  | 75\.65  | 66\.07   |
 
-## 8. Citation
-If you find our code and datasets useful, please cite our paper.
-
-  
-```
 @inproceedings{chen2020racl,
   author    = {Zhuang Chen and Tieyun Qian},
   title     = {Relation-Aware Collaborative Learning for Unified Aspect-Based Sentiment Analysis},
@@ -111,6 +106,5 @@ If you find our code and datasets useful, please cite our paper.
   year      = {2020},
   url       = {https://www.aclweb.org/anthology/2020.acl-main.340}
 }
-```
 
 :checkered_flag: 
